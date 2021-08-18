@@ -3,6 +3,7 @@ package herencia;
 public class Animal {
 	
 	public String nombre;
+	// public int edad;
 	
 	public void respirar() {
 		System.out.println("Soy un animal y estoy respirando");
